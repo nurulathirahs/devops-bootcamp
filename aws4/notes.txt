@@ -1,0 +1,12 @@
+[
+    [
+        "nat-06f49e9c8eee2c9dc",
+        "available"
+    ]
+]
+[
+    "3.0.82.26"
+]
+[
+    "544925303819.dkr.ecr.ap-southeast-1.amazonaws.com/devops-bootcamp/nurul"
+]
