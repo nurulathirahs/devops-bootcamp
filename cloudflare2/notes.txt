@@ -1,0 +1,9 @@
+Cloudflare Notes
+
+- Cloudflare = CDN + security + DNS management
+- Protect server from DDoS attack
+- Can hide origin server IP using tunnel
+- Cloudflare Tunnel = secure connection without opening ports
+- Pages.dev = hosting static website (GitHub integration)
+- Custom domain = domain sendiri (e.g. mysite.com)
+- DNS records control traffic routing
