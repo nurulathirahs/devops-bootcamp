@@ -1,0 +1,7 @@
+544925303819.dkr.ecr.ap-southeast-1.amazonaws.com/devops-bootcamp/nurul
+
+NETWORK ID     NAME      DRIVER    SCOPE
+bfe577644149   arena     bridge    local
+e35cdcecebe2   bridge    bridge    local
+17788ac78212   host      host      local
+02517fa98d6f   none      null      local
