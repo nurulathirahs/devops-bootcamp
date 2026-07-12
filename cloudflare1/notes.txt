@@ -1,0 +1,10 @@
+Cloudflare Nameservers
+- courtney.ns.cloudflare.com
+- zeus.ns.cloudflare.com
+
+Portfolio Awam
+- pages.dev : https://private-site-dm1.pages.dev/
+- custom domain : https://www.teralabs.asia/
+
+Private Site
+- https://private.teralabs.asia/
